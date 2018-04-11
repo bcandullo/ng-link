@@ -1,0 +1,13 @@
+{
+  "name": "linked-package",
+  "version": "1.0.0",
+  "description": "Package to be consumed by app using npm link.",
+  "typings": "index.d.ts",
+  "types": "index.d.ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

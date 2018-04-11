@@ -5,7 +5,7 @@ Go to `package-consumer-app` and run `npm install` to get a working example.
 
 #
 
-#### Step 1: Symlink using `npm link`
+### Step 1: Symlink using `npm link`
 - Navigate to your npm project directory (`linked-package` in this example) and run ```npm link```
 - Navigate to your project directory which will consume the npm package (`package-consumer-app` in this example) and run: ```npm link package-name```
 
